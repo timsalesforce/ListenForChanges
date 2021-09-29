@@ -2,7 +2,7 @@
 
 In order to test this out, you must create 2 custom fields in your Case object:
 
-`SomeField__c`
+`SomeField__c` and
 `AnotherField__c`
 
 Put `SomeField__c` on the Case layout, but leave `AnotherField__c` off.
